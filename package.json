@@ -1,0 +1,9 @@
+{
+    "name": "sabercolor-website",
+    "version": "1.0.0",
+    "description": "Sito web Saber Color con SaberBot AI",
+    "private": true,
+    "dependencies": {
+        "@google/generative-ai": "^0.21.0"
+    }
+}
